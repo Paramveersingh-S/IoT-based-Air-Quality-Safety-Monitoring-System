@@ -1,5 +1,7 @@
 ## IoT Air Quality & Safety Monitor 🌫️📡
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 A smart system that detects hazardous gases (LPG, CO, smoke) using an MQ-2 sensor, displays real-time data on an LCD, logs to an SD card, and sends alerts via Wi-Fi. Built with Arduino Uno, ESP8266 NodeMCU, and I2C LCD.
 
 ---
